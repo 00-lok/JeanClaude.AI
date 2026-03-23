@@ -6,9 +6,12 @@ Les plugins Claude Code sont des packages qui regroupent skills, serveurs MCP, h
 
 ---
 
-| Ressource | Description |
-|-----------|-------------|
-| [Top plugins](top-plugins.md) | Les plugins les plus impactants et populaires |
+| Plugin | Description | Stars |
+|--------|-------------|-------|
+| [Superpowers](superpowers.md) | Plugin #1 mondial. TDD enforcement radical, workflow 7 phases, subagents frais | ~104k |
+| [claude-mem](claude-mem.md) | Memoire persistante entre sessions via SQLite + Chroma Vector DB | ~35.9k |
+| [Compound Engineering](compound-engineering.md) | 80% planification / 20% execution. 12 subagents paralleles pour revue | — |
+| [Top plugins (autres)](top-plugins.md) | feature-dev, Context7, connect-apps, Local-Review | — |
 
 ---
 

@@ -9,6 +9,7 @@ Contenu educatif, bonnes pratiques et astuces pour tirer le meilleur de Claude C
 | [Bonnes pratiques CLAUDE.md](claude-md-best-practices.md) | Comment ecrire des fichiers CLAUDE.md efficaces |
 | [Astuces et conseils](tips-and-tricks.md) | 45+ astuces pratiques pour Claude Code |
 | [Bonnes pratiques](best-practices.md) | Configuration, workflows et conventions |
+| [Workflow qualite optimale](workflow-qualite-optimale.md) | Le pipeline 7 etapes pour la meilleure qualite de code avec Claude |
 
 ---
 

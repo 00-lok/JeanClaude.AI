@@ -87,9 +87,12 @@ Jeux d'instructions specialises qui ameliorent le comportement de Claude sur des
 
 Packages regroupant skills, hooks, commandes et serveurs MCP.
 
-| Ressource | Description |
-|-----------|-------------|
-| [Top plugins](categories/plugins/top-plugins.md) | Plugins les plus impactants (feature-dev, Context7, Claude-Mem, etc.) |
+| Plugin | Description | Stars |
+|--------|-------------|-------|
+| [Superpowers](categories/plugins/superpowers.md) | Plugin #1 — TDD radical, workflow 7 phases, subagents frais | ~104k |
+| [claude-mem](categories/plugins/claude-mem.md) | Memoire persistante entre sessions via SQLite + Chroma | ~35.9k |
+| [Compound Engineering](categories/plugins/compound-engineering.md) | 80% planification / 20% execution, 12 subagents de revue | — |
+| [Top plugins (autres)](categories/plugins/top-plugins.md) | feature-dev, Context7, connect-apps, Local-Review | — |
 
 → [Voir tous les plugins](categories/plugins/)
 
@@ -101,7 +104,9 @@ Gestionnaires d'evenements du cycle de vie pour l'automatisation, la securite et
 
 | Ressource | Description |
 |-----------|-------------|
-| [Hooks de securite](categories/hooks/security-hooks.md) | Defense contre l'injection de prompts, guardrails, controle des permissions |
+| [Plankton](categories/hooks/plankton.md) | Enforcement qualite write-time : auto-format → lint 20+ outils → fix Claude |
+| [Parry-Guard](categories/hooks/parry-guard.md) | Scanner injection prompts en Rust, DeBERTa ML + tree-sitter, ~8ms |
+| [Hooks de securite](categories/hooks/security-hooks.md) | Guardrails, configs JSON copiables, exemples concrets |
 | [Hooks d'automatisation](categories/hooks/automation-hooks.md) | Auto-formatage, notifications, automatisation Git |
 
 → [Voir tous les hooks](categories/hooks/)
@@ -118,6 +123,7 @@ Outils de coordination multi-agents et de gestion de taches.
 | [Ruflo](categories/orchestration/ruflo.md) | Plateforme enterprise de swarm multi-agents | — |
 | [CCPM](categories/orchestration/ccpm.md) | Orchestration GitHub Issues + Git worktrees | ~7.6k |
 | [Claude Task Master](categories/orchestration/claude-task-master.md) | Gestion de taches IA a partir de PRDs | ~25.3k |
+| [Metaswarm](categories/orchestration/metaswarm.md) | Revue adversariale + quality gates bloquantes (18 agents) | — |
 
 → [Voir tous les outils d'orchestration](categories/orchestration/)
 
@@ -145,6 +151,7 @@ Methodologies de developpement et integrations CI/CD.
 | [Bonnes pratiques CLAUDE.md](categories/guides/claude-md-best-practices.md) | Comment ecrire des fichiers CLAUDE.md efficaces |
 | [Astuces et conseils](categories/guides/tips-and-tricks.md) | 45+ astuces pratiques pour Claude Code |
 | [Bonnes pratiques](categories/guides/best-practices.md) | Configuration, workflows et conventions |
+| [Workflow qualite optimale](categories/guides/workflow-qualite-optimale.md) | Pipeline 7 etapes pour la meilleure qualite de code |
 
 → [Voir tous les guides](categories/guides/)
 

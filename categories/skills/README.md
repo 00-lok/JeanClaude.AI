@@ -13,6 +13,8 @@ Chaque skill necessite un fichier `SKILL.md` avec un frontmatter YAML (nom, desc
 | [Skills officiels](official-skills.md) | Depot officiel `anthropics/skills` d'Anthropic |
 | [Collections communautaires](community-collections.md) | Meilleures collections curatees de skills |
 | [Places de marche](marketplaces.md) | Plateformes de decouverte et installation de skills |
+| [Trail of Bits Security](trail-of-bits.md) | 100+ skills securite par la firme d'audit Trail of Bits |
+| [Context Engineering Kit](context-engineering-kit.md) | Skills spec-driven + DDD pour 100% de code fonctionnel |
 
 ---
 

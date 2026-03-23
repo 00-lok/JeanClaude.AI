@@ -10,6 +10,7 @@ Outils de coordination multi-agents et de gestion de taches pour Claude Code. Ce
 | [Ruflo](ruflo.md) | Plateforme enterprise de swarm multi-agents avec intelligence auto-apprenante | — |
 | [CCPM](ccpm.md) | Gestion de projet avec GitHub Issues + Git worktrees pour execution parallele | ~7.6k |
 | [Claude Task Master](claude-task-master.md) | Gestion de taches IA a partir de PRDs, 36 outils MCP | ~25.3k |
+| [Metaswarm](metaswarm.md) | Orchestration avec revue adversariale et quality gates bloquantes (18 agents) | — |
 
 ---
 
@@ -36,4 +37,5 @@ Outils de coordination multi-agents et de gestion de taches pour Claude Code. Ce
 | Enterprise, intelligence distribuee | **Ruflo** |
 | Integration GitHub Issues, traceabilite | **CCPM** |
 | Planification de taches a partir de PRDs | **Claude Task Master** |
+| Revue adversariale avec quality gates bloquantes | **Metaswarm** |
 | Fonctionnalite native (experimentale) | **Claude Code Agent Teams** |

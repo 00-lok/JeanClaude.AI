@@ -9,6 +9,7 @@ Processus de developpement, methodologies et integrations CI/CD pour Claude Code
 | [Smart Commit](smart-commit.md) | Commits atomiques intelligents au format Conventional Commits — avec fichiers source installables | Workflow + Code |
 | [TDD / BDD](tdd-bdd.md) | Developpement pilote par les tests avec Claude Code | Guide |
 | [CI/CD](ci-cd.md) | Integrations GitHub Actions et automatisation de PRs | Guide |
+| [TDD Guard](tdd-guard.md) | Hooks bloquant le code non-TDD, activation skills 20% → 84% | Workflow + Code |
 | [Workflows agentiques](agentic-workflows.md) | Pipelines de developpement multi-agents | Guide |
 
 ---

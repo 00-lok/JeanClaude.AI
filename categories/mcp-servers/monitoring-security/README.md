@@ -15,3 +15,6 @@ Serveurs MCP pour la surveillance des applications, le suivi des erreurs, l'anal
 | Cycode | SAST, SCA, secrets, scan IaC | Securite |
 | Raygun | Reporting de crashs et monitoring | Monitoring |
 | Logfire | Traces et metriques OpenTelemetry | Observabilite |
+| [Semgrep MCP](semgrep-mcp.md) | Analyse statique deterministe, 5 000+ regles, SAST + Supply Chain + Secrets | Securite |
+| [SonarQube MCP](sonarqube-mcp.md) | Qualite de code et securite via SonarQube, container Docker | Qualite |
+| [Socket MCP](socket-mcp.md) | Scan securite des dependances, pas de cle API requise | Securite |

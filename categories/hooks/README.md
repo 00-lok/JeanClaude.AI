@@ -8,8 +8,10 @@ Les hooks Claude Code sont des gestionnaires d'evenements du cycle de vie qui s'
 
 | Ressource | Description |
 |-----------|-------------|
-| [Hooks de securite](security-hooks.md) | Defense injection de prompts, guardrails, controle des permissions |
+| [Hooks de securite](security-hooks.md) | Defense injection de prompts, guardrails, configs copiables |
 | [Hooks d'automatisation](automation-hooks.md) | Auto-formatage, notifications, automatisation Git |
+| [Plankton](plankton.md) | Enforcement qualite write-time : auto-format → lint 20+ outils → fix Claude |
+| [Parry-Guard](parry-guard.md) | Scanner injection prompts en Rust, ML DeBERTa + tree-sitter, ~8ms |
 
 ---
 
