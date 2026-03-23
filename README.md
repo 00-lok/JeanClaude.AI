@@ -129,6 +129,7 @@ Methodologies de developpement et integrations CI/CD.
 
 | Ressource | Description |
 |-----------|-------------|
+| [Smart Commit](categories/workflows/smart-commit.md) | Commits atomiques intelligents au format Conventional Commits — installable |
 | [TDD / BDD](categories/workflows/tdd-bdd.md) | Workflows de developpement pilote par les tests avec Claude Code |
 | [CI/CD](categories/workflows/ci-cd.md) | GitHub Actions, revue automatisee de PR |
 | [Workflows agentiques](categories/workflows/agentic-workflows.md) | Pipelines de developpement multi-agents |
